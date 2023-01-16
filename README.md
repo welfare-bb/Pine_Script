@@ -1,1 +1,0 @@
-# Pine_Script
